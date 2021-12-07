@@ -84,6 +84,9 @@ input {
 @media only screen and (max-device-width: 420px) {
     .container {
         flex-direction: column;
+        width: 100vw;
+        height: 100vh;
+        background-image: url('../img/foodwallpaper131-1920x1080.jpg');
     }
  
     * {
@@ -91,15 +94,25 @@ input {
     }
 
     .login-container, .logo {
-        width: 100%;
+        width: 80%;
+        
     }
 
     form {
-        margin: auto;
+        width: 80%;
+        height: 120%;
+        margin-left: 10%;
+        margin-right: 10%;
+        
     }
 
     img {
         height: 7em;
-        margin: 2 em;
+        margin: 2em;
+    }
+
+    button {
+        width: 185px;
+        height: 75px;
     }
 }
