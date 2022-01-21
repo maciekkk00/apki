@@ -1,6 +1,6 @@
 section {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 2em;
     padding: 2em;
     
@@ -38,9 +38,9 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 200px;
-    left: 0px;
-    width: 175px;
+    top: 354px;
+    left: 5px;
+    width: 335px;
     height: 52px;
     background-image: url('../img/zloteTlo.png');
     box-shadow: inset 0px 6px 6px #00000029;
@@ -65,9 +65,9 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 200px;
-    left: 0px;
-    width: 175px;
+    top: 354px;
+    left: 5px;
+    width: 335px;
     height: 52px;
     background-image: url('../img/zloteTlo.png');
     box-shadow: inset 0px 6px 6px #00000029;
@@ -92,9 +92,9 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 200px;
-    left: 0px;
-    width: 175px;
+    top: 354px;
+    left: 5px;
+    width: 335px;
     height: 52px;
     background-image: url('../img/zloteTlo.png');
     box-shadow: inset 0px 6px 6px #00000029;
@@ -119,9 +119,9 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 200px;
-    left: 0px;
-    width: 175px;
+    top: 354px;
+    left: 5px;
+    width: 335px;
     height: 52px;
     background-image: url('../img/zloteTlo.png');
     box-shadow: inset 0px 6px 6px #00000029;
@@ -146,19 +146,16 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 200px;
-    left: 0px;
-    width: 175px;
-    height: 52px;
-    background-image: url('../img/zloteTlo.png');
-    box-shadow: inset 0px 6px 6px #00000029;
-    border: 1px solid #707070;
-    border-radius: 24px;
+    top: 401px;
+    left: 5px;
+    width: 335px;
+    height: 330px;
+    background-image: url('../img/kurczakk.png');
     opacity: 1;
 
-    position: relative; top: 80px;
+    position: relative; top: 100px;
 
-    font: normal normal bold 20px/25px Miriam CLM;
+    font: normal normal bold 40px/45px Miriam CLM;
     letter-spacing: 0px;
     color: black;
     text-shadow: 0px 3px 6px #00000029;
@@ -173,19 +170,16 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 200px;
-    left: 0px;
-    width: 175px;
-    height: 52px;
-    background-image: url('../img/zloteTlo.png');
-    box-shadow: inset 0px 6px 6px #00000029;
-    border: 1px solid #707070;
-    border-radius: 24px;
+    top: 401px;
+    left: 5px;
+    width: 335px;
+    height: 330px;
+    background-image: url('../img/ryzz.png');
     opacity: 1;
 
-    position: relative; top: 80px;
+    position: relative; top: 100px;
 
-    font: normal normal bold 20px/25px Miriam CLM;
+    font: normal normal bold 40px/45px Miriam CLM;
     letter-spacing: 0px;
     color: black;
     text-shadow: 0px 3px 6px #00000029;
@@ -200,19 +194,16 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 200px;
-    left: 0px;
-    width: 175px;
-    height: 52px;
-    background-image: url('../img/zloteTlo.png');
-    box-shadow: inset 0px 6px 6px #00000029;
-    border: 1px solid #707070;
-    border-radius: 24px;
+    top: 401px;
+    left: 5px;
+    width: 335px;
+    height: 330px;
+    background-image: url('../img/dzik.png');
     opacity: 1;
 
-    position: relative; top: 80px;
+    position: relative; top: 100px;
 
-    font: normal normal bold 20px/25px Miriam CLM;
+    font: normal normal bold 40px/45px Miriam CLM;
     letter-spacing: 0px;
     color: black;
     text-shadow: 0px 3px 6px #00000029;
@@ -221,23 +212,20 @@ section {
     filter: blur(0px);
 }
 
-/*.button8 {
+.button8 {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
-    top: 354px;
+    top: 401px;
     left: 5px;
     width: 335px;
-    height: 52px;
-    background-image: url('../img/zloteTlo.png');
-    box-shadow: inset 0px 6px 6px #00000029;
-    border: 1px solid #707070;
-    border-radius: 24px;
+    height: 330px;
+    background-image: url('../img/schabowe.png');
     opacity: 1;
 
-    position: relative; top: 180px;
+    position: relative; top: 100px;
 
     font: normal normal bold 40px/45px Miriam CLM;
     letter-spacing: 0px;
@@ -254,17 +242,94 @@ section {
     justify-content: center;
     align-items: center;
 
-    top: 354px;
-    left: 555px;
+    top: 500px;
+    left: 5px;
     width: 335px;
-    height: 52px;
+    height: 60px;
+
     background-image: url('../img/zloteTlo.png');
     box-shadow: inset 0px 6px 6px #00000029;
-    border: 1px solid #707070;
-    border-radius: 24px;
     opacity: 1;
 
-    position: relative; top: 220px;
+    position: relative; top: 68px;
+
+    font: normal normal bold 20px/25px Miriam CLM;
+    letter-spacing: 0px;
+    color: black;
+    text-shadow: 0px 3px 6px #00000029;
+    text-transform: uppercase;
+    opacity: 1;
+    filter: blur(0px);
+}
+
+.button10 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    top: 500px;
+    left: 5px;
+    width: 335px;
+    height: 60px;
+
+    background-image: url('../img/zloteTlo.png');
+    box-shadow: inset 0px 6px 6px #00000029;
+    opacity: 1;
+
+    position: relative; top: 68px;
+
+    font: normal normal bold 20px/25px Miriam CLM;
+    letter-spacing: 0px;
+    color: black;
+    text-shadow: 0px 3px 6px #00000029;
+    text-transform: uppercase;
+    opacity: 1;
+    filter: blur(0px);
+}
+
+.button11 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    top: 500px;
+    left: 5px;
+    width: 335px;
+    height: 60px;
+
+    background-image: url('../img/zloteTlo.png');
+    box-shadow: inset 0px 6px 6px #00000029;
+    opacity: 1;
+
+    position: relative; top: 68px;
+
+    font: normal normal bold 20px/25px Miriam CLM;
+    letter-spacing: 0px;
+    color: black;
+    text-shadow: 0px 3px 6px #00000029;
+    text-transform: uppercase;
+    opacity: 1;
+    filter: blur(0px);
+}
+
+.button12 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    top: 500px;
+    left: 5px;
+    width: 335px;
+    height: 60px;
+
+    background-image: url('../img/zloteTlo.png');
+    box-shadow: inset 0px 6px 6px #00000029;
+    opacity: 1;
+
+    position: relative; top: 68px;
 
     font: normal normal bold 20px/25px Miriam CLM;
     letter-spacing: 0px;
